@@ -1,0 +1,7 @@
+q r -
+r a b
+a c d
+b e f
+c h g
+d i j
+e l k

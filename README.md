@@ -7,6 +7,10 @@ python -m venv jupyter
 ```
 source jupyter/bin/activate
 ```
+### deactive venv
+```
+deactivate
+```
 ### install package
 ```
 pip install -r requirements.txt
